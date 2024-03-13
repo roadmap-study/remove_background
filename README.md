@@ -1,0 +1,1 @@
+This repo is just for remove objects and only leave the background. 
